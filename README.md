@@ -139,17 +139,46 @@ The visuallizations show that:
 # Conclusions
 
 ### Key Findings:
-- **Aircraft safety varies by model and manufacturer** - Some manufacturers have consistently lower accident rates.  
-- **Accident trends have declined** - Advancements in technology and stricter regulations have improved aviation safety.  
-- **Key risk factors identified** - Human error, mechanical failures, and adverse weather conditions are leading causes of accidents.  
-- **Data-driven aircraft selection is essential** - The safest aircraft are not necessarily the most popular, requiring informed decision-making.  
+- **Aircraft safety varies with model and manufacturer** - Some manufacturers have consistently lower accident rates, making their aircraft safer choices.
+
+- **Accident Trends Have Declined** - Advancement in technology and stricter regulations have reduced aviation accidents over time.
+
+- **Key Risk Factors Identified** - Human error, mechanical failures, and adverse weather conditions are among the leading causes of accidents.
+
+- **Data-Driven Aircraft Selection is Essential** - The safest aircraft are not necessarily the most popular ones, highlighting the need for informed decision-making.
 
 ### Business Recommendations:
-1. Prioritize aircraft with low accident rates.  
-2. Invest in modern technology for automated safety features.  
-3. Enhance maintenance and training programs.  
-4. Consider operational conditions when assessing risks.  
+1. Prioritize Aircraft with Low Accident Rates - Select models and manufacturers with strong safety records and low-risk profiles.
+
+2. Invest in Modern Technology - Newer aircraft with automated safety systems reduce human error.
+
+3. Invest in Maintenance & Training Programs - Regular inspections and good pilot education can minimize mechanical and operational failures.
+
+4. Consider Operational Conditions - Flight routes and weather patterns should be factored into risk assessments.
 
 ### Limitations & Future Improvements:
-- Data gaps exist, with missing accident details.  
-- Advanced predictive models, including machine learning, could enhance risk forecasting.  
+- Data Gaps - Many accident records were incomplete, others missing relevant details.
+- Advanced Predictive Models - Machine learning could enhance risk forecasting for better decision-making.
+
+## Repository Structure
+
+aviation-risk-evaluation/ 
+│── images/
+│ ├── cover_image2.jpg
+│ ├── acc_year.PNG
+│ ├── manu_acc.PNG
+│ ├── manu_acc2.PNG
+│ ├── models_dec.PNG
+│ ├── models_dec2.PNG
+│ ├── airplane_category.PNG
+│ ├── flight_purpose.PNG
+│ ├── weather-loc.PNG
+│── data/
+│ ├── aviation_accidents.csv
+│ ├── cleaned_data.csv
+│── aviation-risk-eval.ipynb
+│── README.md
+│── 
+│── 
+│── 
+│── .gitignore
