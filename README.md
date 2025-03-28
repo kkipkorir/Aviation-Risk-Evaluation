@@ -160,25 +160,26 @@ The visuallizations show that:
 - Data Gaps - Many accident records were incomplete, others missing relevant details.
 - Advanced Predictive Models - Machine learning could enhance risk forecasting for better decision-making.
 
+
 ## Repository Structure
 
-aviation-risk-evaluation/ 
+```
+aviation-risk-evaluation/
 │── images/
-│ ├── cover_image2.jpg
-│ ├── acc_year.PNG
-│ ├── manu_acc.PNG
-│ ├── manu_acc2.PNG
-│ ├── models_dec.PNG
-│ ├── models_dec2.PNG
-│ ├── airplane_category.PNG
-│ ├── flight_purpose.PNG
-│ ├── weather-loc.PNG
+│   ├── cover_image2.jpg
+│   ├── acc_year.PNG
+│   ├── manu_acc.PNG
+│   ├── manu_acc2.PNG
+│   ├── models_dec.PNG
+│   ├── models_dec2.PNG
+│   ├── airplane_category.PNG
+│   ├── flight_purpose.PNG
+│   ├── weather-loc.PNG
 │── data/
-│ ├── aviation_accidents.csv
-│ ├── cleaned_data.csv
+│   ├── aviation_accidents.csv
+│   ├── cleaned_data.csv
 │── aviation-risk-eval.ipynb
 │── README.md
-│── 
-│── 
-│── 
+│── aviation-risk-eval.pdf
+│── presentation-slide.pdf
 │── .gitignore
